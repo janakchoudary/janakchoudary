@@ -50,7 +50,7 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 
 | **Front-End** | **Back-End** | **AI & Tools** | **Languages** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=github,vscode,electron" width="150" /> | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,cs" width="250" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=github,vscode,electron,notion" width="180" /> | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,cs" width="250" /> |
 
 ---
 
@@ -58,10 +58,7 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 
 | **Project** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
-| **🎙️ Arya AI** | `Python` `Ollama` | Custom Hinglish voice assistant for macOS. |
-| **🔗 Seamless Connect** | `Electron` `Node` | Lag-free mouse & keyboard sharing (Mac ↔ Win). |
-| **🎨 Artolika Digital** | `Design` `Print` | Digital cataloging and AI workflows for high-end tiles. |
-| **🎮 Gamingwithjanak** | `Content` `Unity` | Minecraft tutorials and upcoming peaceful game project. |
+| **🖥️ One surface** | `Electron` `Node` | seamless connection of mouse & keyboard sharing, file transfer and more... (Mac ↔ Win). |
 
 ---
 
